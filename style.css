@@ -1,8 +1,8 @@
 
 @font-face {
     font-family: "Unability";
-    src: url('/fuentes/unability.woff2') format('woff2'),
-        url('/fuentes/unability/woff') format('woff');
+    src: url('/fuentes/unability/unability-webfont.woff2') format('woff2'),
+        url('/fuentes/unability/unability-webfont/woff') format('woff');
     
     font-weight: normal;
     font-style: normal;
